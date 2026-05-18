@@ -1,5 +1,23 @@
-## Hi there 👋
 
+# Hi 👋 I'm Deepankar
+
+🚀 Developer & Creator from India
+
+## About Me
+- 🌱 Learning Full Stack Development
+- 🤖 Exploring AI & Automation
+- 📱 Android Development Enthusiast
+- 🎥 Interested in Content Creation
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+
+## Current Project
+🚧 Building WanderMind AI
 <!--
 **deepankar3108/deepankar3108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
